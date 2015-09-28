@@ -41,5 +41,4 @@ Davut Kilinc, davutklnc@gmail.com
 ## License
 
 Bundler is available under the MIT license. See the LICENSE file for more info.
-© 2015 Microsoft Koşullar Gizlilik ve tanımlama bilgileri Geliştiriciler Türkçe
 =======
