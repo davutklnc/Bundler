@@ -20,9 +20,13 @@ Bundler stores previous language selection at keychain.
 
 ####How to use
 
-```Swift Bundler.sharedLocalSystem?.setLanguageWithBlock(.EN, completion: { (settedLanguage) -> () in
+```Swift
+
+Bundler.sharedLocalSystem?.setLanguageWithBlock(.EN, completion: { (settedLanguage) -> () in
 self.lbl.text = "ELLO".localized 
-})```
+})
+
+```
 
 
 ## Requirements
