@@ -1,6 +1,6 @@
 //
-//  DiLocalizer.swift
-//  DiLocalizer
+//  Bundler.swift
+//  Bundler
 //
 //  Created by davut on 11/09/15.
 //  Copyright (c) 2015 davut. All rights reserved.
