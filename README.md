@@ -25,7 +25,6 @@ self.lbl.text = "ELLO".localized
 })```
 
 
-
 ## Requirements
 
 This library requires a deployment target of iOS 7.0 or greater.
@@ -37,5 +36,6 @@ Davut Kilinc, davutklnc@gmail.com
 
 ## License
 
-LinkedinIOSHelper is available under the MIT license. See the LICENSE file for more info.
+Bundler is available under the MIT license. See the LICENSE file for more info.
 © 2015 Microsoft Koşullar Gizlilik ve tanımlama bilgileri Geliştiriciler Türkçe
+=======
